@@ -129,7 +129,7 @@ function SkillsC() {
         <p>Regarding my software development skills, the tools I am most familiar with are <MdOutlineDoubleArrow className="arrow" /> HTML|(S)CSS, JavaScript, React, Node.js, PHP, MySQL, Python and MongoDB </p>
         <p>A few projects that I've built are shown below.</p>
 
-        <a href="https://reehousing.netlify.app/">
+        <a href="https://reehousing.netlify.app/" rel="noreferrer">
         <div className="pjt">
           <div className="pjt-about">
             <h3>REE</h3>
@@ -139,14 +139,14 @@ function SkillsC() {
             <p className="tools">HTML|(S)CSS, React</p>
 
           </div>
-          <img src={Ree} />
+          <img src={Ree} alt="" />
         </div>
         </a>
 
 
-        <a href="https://www.favorautosales.net/" target="_blank">
+        <a href="https://www.favorautosales.net/" target="_blank" rel="noreferrer">
         <div className="pjt" id="switch">
-          <img src={Fas} className="img" />
+          <img src={Fas} alt="" className="img" />
           <div className="pjt-about2">
             <h3>Favor Auto-Sales</h3>
             <div className="main-abt2">
@@ -160,7 +160,7 @@ function SkillsC() {
 
         
         
-        <a href="https://www.oduamke.org/" target="_blank">
+        <a href="https://www.oduamke.org/" target="_blank" rel="noreferrer">
         <div className="pjt">
           <div className="pjt-about">
             <h3>Odua Mke</h3>
@@ -170,7 +170,7 @@ function SkillsC() {
             <p className="tools">HTML|(S)CSS, JavaScript, PHP, MySQL</p>
 
           </div>
-          <img src={Odua} />
+          <img src={Odua} alt="" />
         </div>
         </a>
         

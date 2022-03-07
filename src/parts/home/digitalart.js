@@ -55,13 +55,13 @@ function SkillsC() {
         trackXProps={{ className: "trackX" }}
         >
 
-          <img src={Hands} />
-          <img src={Xx} />
-          <img src={SClaw} />
-          <img src={Shades} />
-          <img src={Lions} />
-          <img src={Climb} />
-          <img src={PShades} />
+          <img src={Hands} alt="" />
+          <img src={Xx} alt="" />
+          <img src={SClaw} alt="" />
+          <img src={Shades} alt="" />
+          <img src={Lions} alt="" />
+          <img src={Climb} alt="" />
+          <img src={PShades} alt="" />
 
 
         </Scrollbar>
