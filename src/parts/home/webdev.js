@@ -129,7 +129,7 @@ function SkillsC() {
         <p>Regarding my software development skills, the tools I am most familiar with are <MdOutlineDoubleArrow className="arrow" /> HTML|(S)CSS, JavaScript, React, Node.js, PHP, MySQL, Python and MongoDB </p>
         <p>A few projects that I've built are shown below.</p>
 
-        <a href="https://reehousing.netlify.app/" rel="noreferrer">
+        <a href="https://reehousing.netlify.app/" target="_blank" rel="noreferrer">
         <div className="pjt">
           <div className="pjt-about">
             <h3>REE</h3>
